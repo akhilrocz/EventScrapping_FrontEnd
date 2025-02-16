@@ -15,6 +15,7 @@ Setup Instructions
 
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/event-explorer-frontend.git
+
 cd event-explorer-frontend
 
 2️⃣ Install Dependencies
