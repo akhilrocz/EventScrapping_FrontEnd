@@ -8,7 +8,7 @@ function App() {
   const [email, setEmail] = useState("");
   const [selectedEvent, setSelectedEvent] = useState(null);
   const [loading, setLoading] = useState(true);
-  const API_URL = "http://localhost:8000"; 
+  const API_URL = "http://localhost:8000";
 
   useEffect(() => {
     axios
